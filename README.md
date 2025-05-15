@@ -1,6 +1,6 @@
 # ProyectoFIS_2025-1
 
-Integrantes:
+Integrantes:  
 Cristian Andres Cruz Puentes - 20221020125  
 Juan Diego Grajales Castillo – 20221020128  
 Luis Felipe Mayorga Tibaquicha – 20221020134  

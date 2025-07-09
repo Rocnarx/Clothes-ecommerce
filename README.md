@@ -102,11 +102,6 @@ npm start
 
 ---
 
-## 📌 Estado del Proyecto
-
-🚧 **En desarrollo (WIP)**
-
----
 
 ## 🤝 Autores
 

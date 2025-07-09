@@ -1,0 +1,87 @@
+/* src/components/EstampasPublicadas.css */
+.estampas-container {
+    padding: 20px;
+    background-color: #f4f4f9;
+    text-align: center;
+  }
+  
+  .estampas-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .estampa-card {
+    background-color: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 250px;
+    text-align: center;
+    padding: 15px;
+  }
+  
+  .estampa-img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+  
+  .estampa-info {
+    margin-top: 10px;
+  }
+  
+  .estampa-info h3 {
+    font-size: 18px;
+    color: #333;
+  }
+  .botones-container {
+    display: flex;
+    justify-content: center;   
+    gap: 10px;                 
+    margin-top: 10px;
+    width: 100%;
+  }
+  
+  .borrar-btn {
+    background-color: #e74c3c;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  .borrar-btn:hover {
+    background-color: #c0392b;
+  }
+  .restock-btn {
+    background-color: #3ce73c;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  .restock-btn:hover {
+    background-color: #3ce73c;
+  }
+  
+  p {
+    font-size: 18px;
+    color: #555;
+  }
+  .restock-input {
+    width: 60px;               /* Ancho pequeño para el input */
+    padding: 5px;              /* Espaciado interno reducido */
+    border: 1px solid #ccc;    /* Borde sutil */
+    border-radius: 5px;        /* Bordes redondeados para que coincidan con los botones */
+    text-align: center;        /* Centrar el texto dentro del input */
+    font-size: 14px;           /* Tamaño de fuente más pequeño */
+    margin-top: 10px;          /* Espaciado superior para alinearse con los botones */
+  }
+  
